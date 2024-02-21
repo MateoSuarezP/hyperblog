@@ -2,4 +2,4 @@ Esta es la historia
 
 Tengo 34 años
 
-Ahora me encuentro estudiando Git
+Ahora me encuentro estudiando Git y programación
